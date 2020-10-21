@@ -1,0 +1,37 @@
+---
+date: 2012-05-02 23:11:48 +0100
+layout: blogpost
+category: blogpost
+subcategory: dev
+
+tags: "deleuze, merleau-ponty, foucault, platonismo, differenza, ripetizione"
+title:  "Le immagini e le cose"
+subtitle: "Come pensiamo le immagini?"
+excerpt: "Un problema antichissimo: com’è possibile distinguere le immagini del mondo dal mondo stesso, se quest’ultimo ci si palesa attraverso delle immagini?"
+---
+
+![Velázquez - Las Meninas]({{ site.imagesurl | append: '2012-05-02-immagini-cose.jpg' | absolute_url }})
+
+Due amici attraversano i binari, quando uno dice all’altro: «Guarda, laggiù le rotaie s’incontrano. Proprio là, vicino agli alberi». L’altro sorridendo risponde: «Ti sbagli, è solo un’_illusione_. In _realtà_, le rotaie sono sempre parallele». Il primo sembra perplesso, allora il secondo aggiunge: «Vieni con me, ti dimostrerò che ho ragione». Così entrambi s’incamminano verso gli alberi. Una volta sul posto i due costatano che le rotaie sono parallele. A questo punto il secondo rincara la dose: «Ti avevo avvertito. Una cosa sono i binari che vedi, un’altra i binari come sono veramente». Allora il primo replica: «Tu m’insegni che immagini e cose sono due entità distinte; e mentre diffidi delle prime, consideri vere solo le seconde. Tuttavia ciò che tu chiami immagini (cioè i binari che s’incontrano all’orizzonte) e ciò che tu chiami cose (cioè i binari paralleli sotto i nostri piedi), io sempre le ho viste con gli stessi occhi. Come posso allora distinguerle?».
+
+In termini molto generali, si potrebbe dire che il problema posto da questa conversazione sia la ragione profonda del platonismo:<a href="#1"><sup>1</sup></a> come distinguere la visione corretta da quella illusoria, l’essere dal divenire, le cose dalle loro immagini, le icone dai simulacri?<a href="#2"><sup>2</sup></a> La soluzione sostenuta da uno dei due amici – che poi è quella a noi più familiare, in quanto fondatrice della tradizione estetica occidentale – consiste innanzitutto nello scindere la dimensione delle immagini da quella delle cose. Da una parte i binari, dall’altra le immagini dei binari; da una parte la cosa in sé, dall’altra le sue immagini.
+
+Successivamente si stabilisce la relazione che attribuisce alle cose il ruolo di modello e alle immagini quello di copie. Le prime saranno così considerate vere in loro stesse, mentre le seconde saranno giudicate più o meno adeguate al loro originale di riferimento. Platone si spinge oltre, riproponendo il medesimo schema a un livello superiore, tra le “idee” e le cose. Si forma così una triade discendente, una gerarchia ontologica tripartita: le idee (essenze) che esistono in loro stesse, le cose (copie delle idee) che esistono grazie alle idee e le immagini (copie di copie) che sono a loro volta mutuate dalle cose. Ogni scalino comporta un allontanamento dalla verità in sé, implicando un depotenziamento ontologico e instaurando una relazione di somiglianza tra il livello superiore e il rispettivo inferiore. Le idee sono identiche a loro stesse in eterno, le cose partecipano alle idee e sono corrotte dal tempo, le immagini assomigliano alle cose e ne duplicano le apparenze. Ai margini dell’universo platonico gravitano i simulacri, cioè quelle immagini che sono così poco fedeli al loro referente, che finiscono per deformarne la natura o, peggio, che arrivano a simularne l’aspetto, senza conservarne la sostanza: come nel deserto i miraggi _simulano_ le oasi.
+
+Sebbene questa impostazione estetico-ontologica sembri irreprensibile, a ben guardare sottostima un dato importante, cioè che il mondo ci si presenta sempre secondo i nostri occhi. Dopotutto noi facciamo esperienza delle “cose in sé” attraverso le immagini che i nostri occhi ci restituiscono. Ritornando all’esempio iniziale: quando i due ragazzi guardano all’orizzonte, vedono delle rotaie convergenti; quando, invece, osservano i binari sotto i loro piedi, vedono delle rotaie parallele. Come possiamo stabilire quale sia la visione vera e quella illusoria, se il massimo di cui possiamo disporre è comunque una _visione_ delle rotaie? In altri termini: in base a quale criterio decidiamo che la visione che ci restituisce i binari paralleli è vera, mentre quella che ci restituisce i binari convergenti è solo un’apparenza? Evidentemente in base ad una preferenza arbitraria del punto di vista. Arbitraria, poiché non giustificabile universalmente. In effetti ogni punto d’osservazione ha pari legittimità di qualsiasi altro, in quanto il mondo è soggetto alle medesime leggi fisiche in ogni suo angolo. Entrambe le osservazioni sono quindi da considerare valide (sebbene diano riscontri diversi) esattamente come davanti a uno schermo possiamo scegliere di allontanarci e avere una visione d’insieme dell’immagine trasmessa, o avvicinarci e prestare attenzione all’affollamento indecifrabile di pixel.
+
+Abbandonando gli esempi, possiamo formulare una questione d’ordine generale in questi termini: com’è possibile distinguere le immagini-del-mondo dal mondo stesso, se quest’ultimo ci si palesa attraverso delle immagini? L’aporia a cui conduce in ultima analisi l’impostazione platonica, suggerisce di rimettere in causa proprio il suo primo assunto, il postulato secondo cui la dimensione delle immagini sia separata da quella delle cose stesse.<a href="#3"><sup>3</sup></a> Concludiamo quindi che non esiste una dimensione delle immagini, più o meno illusoria, scissa da una dimensione delle cose, che è aprioristicamente vera e che chiamiamo realtà. Esiste tuttalpiù una sola dimensione in cui immagini e cose fanno tutt’uno,<a href="#4"><sup>4</sup></a> in cui cose e immagini si danno come due aspetti di uno stesso elemento.<a href="#5"><sup>5</sup></a> Come scriverebbe Nietzsche, «col mondo vero [delle cose] abbiamo eliminato anche quello apparente [delle immagini]».<a href="#6"><sup>6</sup></a>
+
+<hr/>
+
+<a class="footnote" id="1">1</a> Per “Platonismo” intendiamo la versione semplificata e schematica della filosofia di Platone.
+
+<a class="footnote" id="2">2</a> Cfr. «In termini molto generali, il motivo della teoria delle idee deve essere cercato sul versante di una volontà di selezionare, di scegliere. Si tratta di fare la differenza, distinguere la “cosa” stessa dalle sue immagini, l’originale dalla copia, il modello dal simulacro». Gilles Deleuze, _Simulacro e filosofia antica_, in appendice a _Logica del senso_, p. 223.
+
+<a class="footnote" id="3">3</a> A rigor di logica, bisognerebbe rimettere in causa anche l’altro postulato, quello secondo cui la dimensione delle idee è separata da quella delle cose. A riguardo, rinviamo al libro di Mauro Carbone _Una deformazione senza precedenti. Marcel Proust e le idee sensibili_, Qodlibet, 2004, Macerata.
+
+<a class="footnote" id="4">4</a> Cfr. Mauro Carbone, _Uomo che cade. Una distruzione d’immagini di distruzione_, pubblicato in _Alfabeta2 – Rivista d’intervento culturale n° 9_, Settembre 2011.
+
+<a class="footnote" id="5">5</a> La scelta del termine «elemento» rimanda all’opera di Maurice Merleau-Ponty, _Le visible et l’invisibile_, Gallimard, Paris, 1964; trad. it  a cura di P.A. Rovatti, _Il visibile e l’invisibile_, Bompiani, 1969, Milano, p. 156.
+
+<a class="footnote" id="6">6</a> F. Nietzsche, _Crepuscolo degli idoli ovvero come si filosofa con il martello_, tr. it. di F. Masini, “Nota introduttiva” di M. Montinari, edizione condotta sul testo critico originale stabilito nelle _Opere_ di Frederich Nietzsche, a cura di G. Colli e M. Montinari, Adelphi, Milano 1983, pp. 46-47.
