@@ -35,5 +35,6 @@ Here is a video preview showing how it's easy to create high quality video foota
   <script src="https://geo.dailymotion.com/player/xkp.js" data-video="k5wRH7vElU8dBquWcNb" data-params="aspectRatio=9:16"></script>
 </div>
 
+
 I believe there still room in the social market segment for a new wave of video apps that focuses on short video format.
 [Blow](https://itunes.apple.com/fr/app/snacknews/id1462614796?mt=8) aims to be a reference tool for high-paced mobile video editing.
