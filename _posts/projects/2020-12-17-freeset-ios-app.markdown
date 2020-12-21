@@ -16,8 +16,8 @@ featured: true
 featured_rank: 1
 ---
 
-[Freeset](https://itunes.apple.com/fr/app/freesets/id1531950807?mt=8) provides free high quality photo presets for Lightroom. Created by professional photographers these premium presets help you enhancing your pictures on your iPhone with no effort.
+[Freeset](https://itunes.apple.com/fr/app/freesets/id1531950807?mt=8) provides free high quality photo presets for Lightroom. Created by professional photographers, these premium presets help you enhancing your pictures on your iPhone with no effort.
 
 ![Freeset iOS App]({{ site.imagesurl | append: '2020-12-17-freesets-2.jpg' | absolute_url}})
 
-All Lightroom presets apps on the Store reserve their best filters to subscribers. Freeset chose to walk a different way by sharing the beauty of high-quality presets with everyone. [Download it from the App Store](https://itunes.apple.com/fr/app/freesets/id1531950807?mt=8) and enjoy all the presets you need are for free!
+All Lightroom presets apps on the Store reserve their best filters to subscribers. Freesets is different because it make available for free dozen of high-quality presets. [Download the app](https://itunes.apple.com/fr/app/freesets/id1531950807?mt=8) and enjoy all the presets you want for free!
