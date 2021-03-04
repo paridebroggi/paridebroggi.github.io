@@ -21,7 +21,7 @@ UICollectionView has become one of the most popular UI elements among iOS develo
 
 The layout is then responsible for determining the placement and visual attributes of the views.
 
-You’ve likely used the default flow layout — a layout class provided by UIKit — which consists of a basic grid layout with some customizations.
+You’ve likely used the default flow layout (a layout class provided by UIKit) which consists of a basic grid layout with some customizations.
 
 But you can also implement your own custom layouts to arrange the views any way you like; this is what makes the collection view so flexible and powerful.
 
