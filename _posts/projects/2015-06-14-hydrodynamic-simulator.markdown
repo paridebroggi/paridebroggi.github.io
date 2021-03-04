@@ -13,7 +13,7 @@ excerpt: "HDS is a hydrodynamic simulator that reproduces water behaviours in se
 cover_image: 2015-06-14-hydrodynamic-simulator.jpg
 project_url: https://github.com/pbrog/glmc
 videoID: x7k5rbw
-playerParams: data-playlist="x5zhzj"
+playerParams: data-playlist="x728p0k" data-params="GK_PV5_NEW_ENDSCREEN=1"
 ---
 
 Computer simulations are amazing. It's impressing how they can reveal the mathematical layer that silently hides under the world.
