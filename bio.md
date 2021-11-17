@@ -6,7 +6,7 @@ navbar_rank: 3
 
 I'm a data driven product leader with both business vision and a strong engineering background.
 
-I have 10+ years experience in creating digital products for b2c, b2b and b2b2c segments (mobile apps and games, SaaS platforms, video players,tracking frameworks). 
+I have 10+ years experience in creating products for b2c, b2b and b2b2c (mobile apps and games, SaaS solutions, OVP platforms, tracking frameworks).
 
 My goal is to build high skilled and organized teams for delivering profitable products that people use on a daily basis.
 
