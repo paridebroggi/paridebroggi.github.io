@@ -4,11 +4,11 @@ title: Bio
 navbar_rank: 3
 ---
 
-I graduated in both computer science and philosophy. This background gives me robust technical skills, strong analytical thinking and a creative passion for product design.
+I'm a data driven product leader with both business vision and a strong engineering background.
 
-As a product manager, I focus on conceiving world-class applications with engaging user experience, innovative technology and performant business models.
+I have 10+ years experience in creating digital products for b2c, b2b and b2b2c segments (mobile apps and games, SaaS platforms, video players,tracking frameworks). 
 
-As a developer, I enjoy coding and learning new technologies. My specialties are Swift, Javascript and C++, but for my personal projects I use PHP, HTML5 and CSS too.
+My goal is to build high skilled and organized teams for delivering profitable products that people use on a daily basis.
 
 I love minimalism, [Goldberg Variations](https://itunes.apple.com/fr/album/bach-les-variations-goldberg-bwv-988/1071951592) and this quote attributed to [Federico Fellini](https://en.wikipedia.org/wiki/Federico_Fellini):
 
