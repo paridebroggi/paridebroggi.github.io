@@ -10,7 +10,8 @@ subtitle: "Una possibile interpretazione"
 excerpt: "Un'interpretazione che allontana la geofilosofia di Gilles Deleuze e Félix Guattari sia dalla logica rappresentativa che da quella storicista."
 ---
 
-<script async data-uid="b511c4afc1" src="https://skilled-inventor-2652.ck.page/b511c4afc1/index.js"></script>
+<script async data-uid="06fd7509f6" src="https://skilled-inventor-2652.ck.page/06fd7509f6/index.js"></script>
+
 
 ![Guattari e Deleuze]({{ site.imagesurl | append: '2011-11-22-geofilosofia-deleuze-guattari.jpg' | absolute_url }})
 
