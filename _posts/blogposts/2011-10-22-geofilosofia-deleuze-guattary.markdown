@@ -9,7 +9,6 @@ title:  "Geofilosofia di Deleuze e Guattari"
 subtitle: "Una possibile interpretazione"
 excerpt: "Un'interpretazione che allontana la geofilosofia di Gilles Deleuze e Félix Guattari sia dalla logica rappresentativa che da quella storicista."
 ---
- 
 ![Guattari e Deleuze]({{ site.imagesurl | append: '2011-11-22-geofilosofia-deleuze-guattari.jpg' | absolute_url }})
 
 «Perché la filosofia nasce in Grecia e in quel determinato momento?»<a href="#1"><sup>1</sup></a> Diversi filosofi hanno cercato una risposta a questa domanda, ognuno esponendo le proprie ragioni e, soprattutto, ognuno presupponendo una propria idea di cosa sia la filosofia e di cosa significhi pensare. Ecco allora che la più contingente delle domande, quella che chiede le ragioni di un determinato _dove _e_ quando_, chiama a sé la più essenziale, quella che s'interroga sul _che cosa_, sulla definizione. Non è dunque un caso che l'opera di Deleuze e Guattari intitolata _Che cos'è la filosofia?_ s'impegni ad un certo punto a rispondere alla domanda del perché proprio in Grecia e in quel momento, suggerendo che l'essenza della filosofia implichi la sua contingenza.
