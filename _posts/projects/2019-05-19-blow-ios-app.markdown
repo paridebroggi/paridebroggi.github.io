@@ -31,7 +31,7 @@ __Just 3 steps!__
 
 Here is a video preview showing how it's easy to create high quality video footages with [Blow Instant Video Maker iOS app](https://itunes.apple.com/fr/app/snacknews/id1462614796?mt=8).
 
-<div class="video-wrapper-special" style="height:300px">
+<div class="video-wrapper-special" style="width:100px; height:300px">
   <script src="https://geo.dailymotion.com/player/x4tg.js" data-video="k5wRH7vElU8dBquWcNb" data-params="GK_PV5_PHOTON=1"></script>
 </div>
 
