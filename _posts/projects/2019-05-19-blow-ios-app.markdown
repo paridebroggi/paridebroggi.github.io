@@ -11,7 +11,7 @@ tagline: "Create the perfect video in 1 tap!"
 excerpt: "The easiest way to create amazing short movies with your camera roll videos."
 
 cover_image: 2019-05-19-blow-wordmark.jpg
-project_url: https://itunes.apple.com/fr/app/snacknews/id1462614796?mt=8
+project_url:
 featured: true
 featured_rank: 1
 ---
@@ -31,8 +31,8 @@ __Just 3 steps!__
 
 Here is a video preview showing how it's easy to create high quality video footages with [Blow Instant Video Maker iOS app](https://itunes.apple.com/fr/app/snacknews/id1462614796?mt=8).
 
-<div class="video-wrapper-special" style="height:640px;">
-  <script src="https://geo.dailymotion.com/player/x4tg.js" data-video="k5wRH7vElU8dBquWcNb"></script>
+<div class="video-wrapper-special" style="width:375px;">
+  <script src="https://geo.dailymotion.com/player/x4tg.js" data-video="k5wRH7vElU8dBquWcNb" data-params="GK_PV5_PHOTON=1"></script>
 </div>
 
 
