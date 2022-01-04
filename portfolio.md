@@ -1,5 +1,5 @@
 ---
 layout: portfolio
 title: Portfolio
-navbar_rank: 1
+navbar_rank: 2
 ---
