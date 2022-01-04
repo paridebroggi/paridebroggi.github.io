@@ -8,7 +8,7 @@ keywords: "OpenGL, simulator, hydrodynamic,fluid"
 tags: [tool]
 title:  "C++ Hydrodynamic Simulator"
 tagline: "Water physics with C++ and OpenGL 4"
-excerpt: "HDS is a hydrodynamic simulator that reproduces water behaviours in several context as rain, flood, drainage or waves. It's built with C++ and OpenGL 4.0"
+excerpt: "This hydrodynamic simulator reproduces water behaviours in several contexts as rain, drainage or waves. It's built with C++ and OpenGL 4.0"
 
 cover_image: 2015-06-14-hydrodynamic-simulator.jpg
 project_url: https://github.com/pbrog/glmc
@@ -16,6 +16,7 @@ videoID: x7k5rbw
 playerParams:
 gkParams: GK_PV5_PHOTON=1
 featured: true
+featured_rank: 4
 ---
 
 Computer simulations are amazing. It's impressing how they can reveal the mathematical layer that silently hides under the world.

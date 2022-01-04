@@ -16,7 +16,7 @@ project_url: https://itunes.apple.com/us/app/briefeed/id1314299987?mt=8
 
 I've been searching for long for a minimal news reader app. Ideally I needed a free app, easy to use, minimal and with news from all around the world in different languages (I'm Italian, I live in France and I follow the american tech news).
 
-What if I told I couldn't find on the App Store something that matches all my requirements? For this reason, I decided to partner with [Alessandro Scarpellini](https://www.alessandroscarpellini.it){:target="_blank"}, one of the most influential designer in the digital minimalist scene to create our own news reader app.
+What if I told you I couldn't find on the App Store something that matches all my requirements? For this reason, I decided to partner with [Alessandro Scarpellini](https://www.alessandroscarpellini.it){:target="_blank"}, one of the most influential designer in the digital minimalist scene to create our own news reader app.
 
 The result is [Briefeed](https://www.briefeed.co){:target="_blank"}. The essential news reader app: handy, minimal and fast. The sleekest way to read the news on the go, finding in one place all the updates you need. And here are the main features:
 
