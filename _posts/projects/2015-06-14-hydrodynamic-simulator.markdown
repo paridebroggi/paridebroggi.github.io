@@ -11,7 +11,7 @@ tagline: "Water physics with C++ and OpenGL 4"
 excerpt: "This hydrodynamic simulator reproduces water behaviours in several contexts as rain, drainage or waves. It's built with C++ and OpenGL 4.0"
 
 cover_image: 2015-06-14-hydrodynamic-simulator.jpg
-project_url: https://github.com/pbrog/glmc
+project_url: https://github.com/prdbrg/hydrodynamic-simulator
 videoID: x7k5rbw
 playerParams:
 gkParams: GK_PV5_PHOTON=1
