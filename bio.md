@@ -3,12 +3,13 @@ layout: page
 title: Bio
 navbar_rank: 3
 ---
+I'm a product leader with both business skills and a strong engineering background.
+I have 10+ years experience in creating products for both b2c and b2b models including mobile apps/games, SaaS solutions, straming platforms and tracking frameworks.
 
-I'm a data driven product leader with both business vision and a strong engineering background.
-
-I have 10+ years experience in creating products for b2c, b2b and b2b2c (mobile apps and games, SaaS solutions, OVP platforms, tracking frameworks).
-
-My goal is to build high skilled and organized teams for delivering profitable products that people use on a daily basis.
+My specialties:
+- implement aggressive strategies to bring back execution focus and proftabilty
+- transition complex product ecosystems to new scenarios and business models
+- restructure organizations to reduce time to market and operational efficiency
 
 I love minimalism, [Goldberg Variations](https://itunes.apple.com/fr/album/bach-les-variations-goldberg-bwv-988/1071951592) and this quote attributed to [Federico Fellini](https://en.wikipedia.org/wiki/Federico_Fellini):
 
