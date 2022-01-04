@@ -3,7 +3,7 @@ layout: page
 title: Bio
 navbar_rank: 3
 ---
-I'm a product leader with both business skills and a solid engineering background. For more than ten years I've been creating b2c and b2b products including mobile apps/games, SaaS solutions, video streaming platforms and tracking frameworks.
+I'm a product leader with both business skills and a solid engineering background. For more than ten years I've been creating b2c and b2b products like mobile apps/games, SaaS solutions, video streaming platforms and tracking frameworks.
 
 My specialties:
 - implement aggressive strategies to bring back focus and proftabilty
