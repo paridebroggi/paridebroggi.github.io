@@ -13,7 +13,7 @@ excerpt: "The easiest way to create amazing short movies with your camera roll v
 cover_image: 2019-05-19-blow-wordmark.jpg
 project_url:
 featured: true
-featured_rank: 1
+featured_rank: 2
 ---
 
 [Blow](https://itunes.apple.com/fr/app/snacknews/id1462614796?mt=8) is a video tool for editing great short footages effortlessly. It’s super handy, fast and suitable for everyone. You don’t need to be a movie director, Blow will create wonderful videos automatically letting you share them on your favourite social network.

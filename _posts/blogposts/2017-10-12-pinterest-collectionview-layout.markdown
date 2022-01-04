@@ -11,8 +11,6 @@ tagline: "An advanced tutorial on how code a Pinterest like collection view layo
 excerpt: "In this UICollectionView custom layout tutorial, you’ll create a layout inspired by the popular Pinterest app."
 
 cover_image: 2017-10-10-pinterest-collectionview-layout.jpg
-featured: true
-featured_rank: 6
 ---
 
 UICollectionView has become one of the most popular UI elements among iOS developers.What makes it so attractive is the separation between the data and presentation layers, which depends upon a separate object to handle the layout.

@@ -12,7 +12,6 @@ excerpt: "Substance is a clean and fully responsive theme designed for Jekyll. S
 
 cover_image: 2015-06-14-substance-jekyll-theme.jpg
 project_url: https://www.paridebroggi.com
-featured: false
 ---
 
 A self-hosted WordPress installation has been for long the best way to keep a personal blog. WordPress is powerful, well tested and hi-customizable.

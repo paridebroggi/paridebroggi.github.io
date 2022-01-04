@@ -12,8 +12,6 @@ excerpt: "Drive is a French transportation company focusing on the personal chau
 
 cover_image: 2016-02-28-drive-mockup-1.jpg
 project_url: https://itunes.apple.com/fr/app/drive-chauffeur/id1090014520?l=en&mt=8
-featured: true
-featured_rank: 6
 ---
 
 After Uber launched in 2009, the smartphone private trip market has become a worldwide business. [Drive](https://www.driver.gt){:target="_blank"} is a Paris based French startup that operates in the high-end market segment, offering a fully customizable private ride service.

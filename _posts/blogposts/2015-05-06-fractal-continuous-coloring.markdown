@@ -10,8 +10,6 @@ subtitle: "The smooth way"
 excerpt: "Fractals can be easily transformed in artistic canvas. In this tutorial I show you how to achieve continuous colouration for the well-known fractals."
 
 cover_image: 2015-05-06-fractals-newton.jpg
-featured: true
-featured_rank: 5
 ---
 
 ![Newton Fractal]({{ site.imagesurl | append: '2015-05-06-fractals-newton.jpg' | absolute_url }})

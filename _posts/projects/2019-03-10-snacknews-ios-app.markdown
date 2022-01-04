@@ -13,7 +13,7 @@ excerpt: "Visual news stories on the key facts of the day and ai-recommended art
 cover_image: 2019-03-10-snacknews-wordmark.jpg
 project_url: https://itunes.apple.com/fr/app/snacknews/id1453025288?mt=8
 featured: true
-featured_rank: 2
+featured_rank: 3
 ---
 
 [Snacknews](https://itunes.apple.com/fr/app/snacknews/id1453025288?mt=8) is an experiment in the mobile news market. The goal is to offer a trustworthy yet snackable news experience on mobile.

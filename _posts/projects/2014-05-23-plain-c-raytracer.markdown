@@ -13,7 +13,6 @@ excerpt: "I created my own 3D ray tracer just to understand in depth how OpenGL 
 cover_image: 2014-05-23-raytracer.jpg
 project_url: https://github.com/pbrog/raytracer/
 videoID: k1WmBy8khrNcYOuWcN9
-featured: false
 ---
 
 I've always loved computer graphics. It is a mind-blowing blend of history of art and pure mathematics, two worlds everybody usually consider to be apart.

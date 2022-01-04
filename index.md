@@ -2,4 +2,4 @@
 layout: home
 title: Home
 ---
-Hi, welcome to my home! Here you can find my latest posts and side projects. To discover more, please check out the portfolio or notes sections. 
+Hi, welcome to my home! Here you can find my latest posts and side projects. To discover more, please check out my portfolio. 

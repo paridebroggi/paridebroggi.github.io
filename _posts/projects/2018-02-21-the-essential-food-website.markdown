@@ -12,9 +12,6 @@ excerpt: "An essential website about healthy food at its finest. A place where t
 
 cover_image: 2018-02-21-tef-mockup-1.jpg
 project_url: https://mrtlvntc.github.io
-
-featured: true
-featured_rank: 5
 ---
 
 Designing a food blog is a though challenge. It's really difficult to keep a minimal approach while dealing with lists of ingredients, step-by-step procedures and visual storytelling.

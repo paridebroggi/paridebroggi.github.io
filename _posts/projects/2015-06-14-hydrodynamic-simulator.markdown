@@ -15,6 +15,7 @@ project_url: https://github.com/pbrog/glmc
 videoID: x7k5rbw
 playerParams:
 gkParams: GK_PV5_PHOTON=1
+featured: true
 ---
 
 Computer simulations are amazing. It's impressing how they can reveal the mathematical layer that silently hides under the world.

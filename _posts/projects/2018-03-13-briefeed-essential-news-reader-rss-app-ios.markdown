@@ -12,8 +12,6 @@ excerpt: "The essential news reader app. Handy, minimal, fast: the sleekest way 
 
 cover_image: 2018-03-13-briefeed-mockup-1.jpg
 project_url: https://itunes.apple.com/us/app/briefeed/id1314299987?mt=8
-featured: true
-featured_rank: 4
 ---
 
 I've been searching for long for a minimal news reader app. Ideally I needed a free app, easy to use, minimal and with news from all around the world in different languages (I'm Italian, I live in France and I follow the american tech news).

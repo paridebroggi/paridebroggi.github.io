@@ -13,7 +13,7 @@ excerpt: "The new app for watching mobile-first premium series for free. Blackpi
 cover_image: 2018-05-12-blackpills-mockup-1.jpg
 project_url: https://itunes.apple.com/us/app/blackpills/id1178975492?mt=8
 featured: true
-featured_rank: 3
+featured_rank: 4
 ---
 
 Blackpills is an insurgent digital media studio co-founded by Daniel Marhely ([Deezer](https://www.deezer.com)) and Patrick Holzman ([Canal+](https://www.mycanal.fr)).
