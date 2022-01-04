@@ -8,7 +8,7 @@ I'm a product leader with both business skills and a solid engineering backgroun
 My specialties:
 - implement aggressive strategies to bring back focus and proftabilty
 - transition complex product ecosystems to new scenarios and business models
-- restructure organizations to cut time to market and optimize operational efficiency
+- restructure organizations to cut time to market and operational inefficiency
 
 I love minimalism and this quote attributed to [Federico Fellini](https://en.wikipedia.org/wiki/Federico_Fellini):
 
