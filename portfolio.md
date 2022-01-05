@@ -4,4 +4,4 @@ title: Portfolio
 navbar_rank: 1
 ---
 
-Some experiments and personal projects 👨‍💻
+ Personal projects, experiments and all in between 👨‍💻
