@@ -12,6 +12,7 @@ My specialties:
 - transition complex ecosystems to new business models and competitive scenarios
 - restructure organizations to cut TTM and operational overhead
 
+
 I love minimalism and this quote attributed to [Federico Fellini](https://en.wikipedia.org/wiki/Federico_Fellini):
 
 > The visionary is the only true realist
