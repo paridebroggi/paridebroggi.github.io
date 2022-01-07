@@ -3,7 +3,7 @@ layout: about
 title: About
 navbar_rank: 3
 ---
-I’m a product leader with pragmatic business skills and a solid engineering background.
+I’m a product leader with both business skills and a solid engineering background.
 
 For 10+ years I’ve been creating b2c and b2b products, including mobile apps and games, SaaS solutions, tracking frameworks and video streaming platforms.
 
