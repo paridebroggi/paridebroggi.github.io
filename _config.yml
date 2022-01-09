@@ -38,7 +38,6 @@ remote_theme: prdbrg/substance
 assets:
    sources:
     - assets/favicons
-    - assets/js
 
 # Build settings
 markdown: kramdown
