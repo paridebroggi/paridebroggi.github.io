@@ -14,11 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Paride Broggi
-email: paride.broggi@gmail.com
-description: "I'm a data driven product leader with both business vision and a strong engineering background."
+description: "I’m a product leader with both business skills and a solid engineering background."
 keywords: "paride, broggi, paride broggi, product, manager, developer, software engineer, mobile, ios, swift"
 permalink: pretty
-
 
 baseurl: ""
 url: "https://www.paridebroggi.com"
@@ -30,11 +28,8 @@ videosurl: assets/media/videos/
 
 google_analytics: UA-28546477-2
 twitter_username: prdbrg
-github_username:  prdbrg
 linkedin_username: paridebroggi
 
-# Substance Theme Settings
-remote_theme: prdbrg/substance
 assets:
    sources:
     - assets/favicons
@@ -44,7 +39,6 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

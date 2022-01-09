@@ -1,0 +1,62 @@
+@charset "utf-8";
+
+// fonts
+$font-family: "Avenir Next", "Helvetica", "Arial", sans-serif !default;
+$base-font-size: 20px;
+
+$base-font-weight: 400;
+$font-weight-black: 800;
+$font-weight-bold: 600;
+$font-weight-semibold: 500;
+$font-weight-light: 300;
+$font-weight-thin: 200;
+
+$spacing-unit: 30px;
+$spacing-unit-devices: 20px;
+$content-lateral-padding: 10px;
+
+//spacings
+$base-line-height: 30px;
+$line-height-list: 30px;
+$line-height-description: 28px;
+$line-height-compact: 26px;
+$line-height-devices: 30px;
+
+// colors
+$background-color: #fff;
+$text-color: #444;
+
+$accent-color: #51a5f1;
+$accent-color-light: lighten($accent-color, 10%);
+$accent-color-extra-light: lighten($accent-color, 18%);
+$accent-color-dark: darken($accent-color, 15%);
+
+$grey: #cdcdcd;
+$grey-dark: darken($grey, 5%);
+$grey-light: lighten($grey, 5%);
+$grey-extra-light: lighten($grey, 15%);
+$grey-icon: lighten($grey, 10%);
+
+$text-availability-color: #fff;
+$available-color: #4ca64c;
+$busy-color: #ff3333;
+
+//content
+$content: 900px;
+$content-text: 680px;
+
+// devices
+$tablet: 600px;
+
+@import
+	"partials/reset",
+	"partials/base",
+	"partials/layout",
+	"partials/home",
+	"partials/blog",
+	"partials/single-project",
+	"partials/single-blogpost",
+	"partials/media-queries",
+	"partials/syntax-highlighting",
+	"partials/cookie-consent"
+	;

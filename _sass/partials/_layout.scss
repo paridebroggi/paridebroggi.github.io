@@ -1,0 +1,76 @@
+.avatar {
+	display: block;
+	height: 120px;
+	width: 120px;
+	border-radius:50%;
+	border: 1px solid $grey-light;
+	margin: 50px auto 40px auto;
+	transition: all .25s ease-in-out;
+	-webkit-transition: all .25s ease-in-out;
+	-moz-transition: all .25s ease-in-out;
+	-o-transition: all .25s ease-in-out;
+}
+
+.avatar:hover {
+	border: 1px solid $accent-color-light;
+}
+
+nav {
+  text-transform: capitalize;
+  max-width: $content;
+  text-align: center;
+  margin: 0px auto;
+}
+
+nav a {
+	transition: all .25s ease-in-out;
+	-webkit-transition: all .25s ease-in-out;
+	-moz-transition: all .25s ease-in-out;
+	-o-transition: all .25s ease-in-out;
+	color: $grey-dark !important;
+  padding: 0 10px;
+}
+
+nav a:hover {
+  color: $accent-color !important;
+  text-decoration: none !important;
+}
+
+.main {
+  min-height: 900px;
+  max-width: $content;
+	margin: auto;
+  padding: 50px 12px !important;
+}
+
+.content-text {
+	background-color: #fff;
+	margin: 0 auto;
+	max-width: $content-text;
+}
+
+footer {
+  max-width: $content;
+  text-align: center;
+  font-size: 0.8em;
+  margin: 0 auto 120px auto;
+}
+
+.contacts {
+	margin: 60px auto;
+	text-align: center;
+}
+
+.contacts a {
+	margin: 0 12px;
+	font-size: 1.4em;
+	color: $grey !important;
+	transition: all .25s ease-in-out;
+	-webkit-transition: all .25s ease-in-out;
+	-moz-transition: all .25s ease-in-out;
+	-o-transition: all .25s ease-in-out;
+}
+
+.contacts a:hover {
+	color: $accent-color !important;
+}

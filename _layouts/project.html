@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<div class="content-text">
+	<article class="single-project">
+		<div class='title-and-share-container'>
+			<div class="single-project-title"><h1>{{ page.title }}</h1></div>
+		</div>
+		<p>{% if page.excerpt %}{{ page.excerpt }}{% endif %}</p>
+	{% if page.videoID %}
+		<div class="video-wrapper">
+			<script src="https://geo.dailymotion.com/player/x2xo.js?{{page.gkParams}}&" data-video="{{page.videoID}}" data-params="{{page.playerParams}}"></script>
+		</div>
+	{% else %}
+			<a href="{{ page.project_url }}" target="_blank">
+				<img src="{{ site.imagesurl | append: page.cover_image | absolute_url }}" alt="{{ page.title }}" />
+			</a>
+	{% endif %}
+		{{ content }}
+	</article>
+</div>

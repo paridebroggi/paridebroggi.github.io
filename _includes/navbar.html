@@ -1,0 +1,8 @@
+{% assign ranked = site.pages | sort: "navbar_rank" %}
+<nav>
+  {% for page in ranked %}
+    {% if page.navbar_rank %}
+      <a href="{{ page.url | absolute_url | escape }}" > {{ page.title | escape }} </a>
+    {% endif %}
+  {% endfor %}
+</nav>

@@ -1,0 +1,67 @@
+{% if page.title == 'Home' %}
+  {% assign title = site.title %}
+{% else %}
+  {% assign title = page.title | append: " - " | append: site.title %}
+{% endif %}
+
+{% if page.cover_image %}
+  {% assign image = site.imagesurl | append: page.cover_image | absolute_url %}
+{% else %}
+  {% assign image = site.assetsurl | append: "profile.jpg" | absolute_url %}
+{% endif %}
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title | default: site.title | strip_html | escape }}</title>
+
+  <!-- HTML Meta Tags -->
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
+  <meta name="keywords" content="{{ page.keywords | default: site.keywords | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
+
+  <!-- Facebook Meta Tags -->
+  <meta property="og:type" content="website"/>
+  <meta property="og:title" content="{{ title | default: site.title | strip_html | escape }}"/>
+  <meta property="og:site_name" content="{{ site.title }}"/>
+  <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | escape }}"/>
+  <meta property="og:url" content="{{ page.url | absolute_url }}" id="meta-url"/>
+  <meta property="og:image" content="{{ image }}"/>
+  <meta property="og:image:type" content="image/jpeg"/>
+  <meta property="og:image:width" content="476"/>
+  <meta property="og:image:height" content="249"/>
+
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta property="twitter:site" content="{{ site.twitter_username | prepend: "@" }}"/>
+  <meta name="twitter:title" content="{{ page.title | default: site.title | strip_html }}"/>
+  <meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html }}"/>
+  <meta name="twitter:image" content="{{ image }}"/>
+
+  <!-- Dailymotion Verification -->
+  <meta name='dailymotion-domain-verification' content='dm9ux7umimh5dp9hv' />
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}"/>
+  <link rel="stylesheet" type="text/css" href="{{ site.assetsurl | append: "style.css" | absolute_url }}"/>
+  <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css"/>
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | absolute_url }}"/>
+  <link rel="apple-touch-icon" sizes="57x57" href="{{ site.assetsurl | append: "favicons/apple-icon-57x57.png" | absolute_url | escape }}"/>
+  <link rel="apple-touch-icon" sizes="60x60" href="{{ site.assetsurl | append: "favicons/apple-icon-60x60.png" | absolute_url | escape }}"/>
+  <link rel="apple-touch-icon" sizes="72x72" href="{{ site.assetsurl | append: "favicons/apple-icon-72x72.png" | absolute_url | escape }}"/>
+  <link rel="apple-touch-icon" sizes="76x76" href="{{ site.assetsurl | append: "favicons/apple-icon-76x76.png" | absolute_url | escape }}"/>
+  <link rel="apple-touch-icon" sizes="114x114" href="{{ site.assetsurl | append: "favicons/apple-icon-114x114.png" | absolute_url | escape }}"/>
+  <link rel="apple-touch-icon" sizes="120x120" href="{{ site.assetsurl | append: "favicons/apple-icon-120x120.png" | absolute_url | escape }}"/>
+  <link rel="apple-touch-icon" sizes="144x144" href="{{ site.assetsurl | append: "favicons/apple-icon-144x144.png" | absolute_url | escape }}"/>
+  <link rel="apple-touch-icon" sizes="152x152" href="{{ site.assetsurl | append: "favicons/apple-icon-152x152.png" | absolute_url | escape }}"/>
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.assetsurl | append: "favicons/apple-icon-180x180.png" | absolute_url | escape }}"/>
+  <link rel="icon" type="image/png" sizes="192x192"  href="{{ site.assetsurl | append: "favicons/android-icon-192x192.png" | absolute_url | escape }}"/>
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.assetsurl | append: "favicons/favicon-32x32.png" | absolute_url | escape }}"/>
+  <link rel="icon" type="image/png" sizes="96x96" href="{{ site.assetsurl | append: "favicons/favicon-96x96.png" | absolute_url | escape }}"/>
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.assetsurl | append: "favicons/favicon-16x16.png" | absolute_url | escape }}"/>
+  <meta name="msapplication-TileColor" content="#ffffff"/>
+  <meta name="msapplication-TileImage" content="{{ site.assetsurl | append: "/ms-icon-144x144.png" | absolute_url | escape }}"/>
+  <meta name="theme-color" content="#ffffff"/>
+  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-28546477-2"></script>
+</head>

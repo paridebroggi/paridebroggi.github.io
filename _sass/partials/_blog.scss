@@ -1,0 +1,40 @@
+.blog-article-element {
+  margin: 40px auto;
+}
+
+.blog-article-link {
+  transition: all .25s ease-in-out;
+  -webkit-transition: all .25s ease-in-out;
+  -moz-transition: all .25s ease-in-out;
+  -o-transition: all .25s ease-in-out;
+}
+
+.blog-article-link:hover {
+  transform: translate(12px, 0px);
+  .blog-article-title {
+    color: $accent-color;
+  }
+}
+
+.blog-article-date {
+  font-size: 0.85em !important;
+  color: $grey-dark !important;
+}
+
+.blog-article-link {
+  display: block;
+  color: $text-color !important;
+  text-decoration: none !important;
+}
+
+.blog-article-date {
+}
+
+.blog-article-title {
+  margin: 0 auto 4px auto;
+  font-weight: $font-weight-bold;
+}
+
+.blog-article-excerpt {
+
+}

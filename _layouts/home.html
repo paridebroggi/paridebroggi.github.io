@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<div class="content-text">
+		{{ content }}
+		{% assign featured_projects = site.categories.project | where: "featured", "true" %}
+		{% assign featured_blogposts = site.categories.blogpost | where: "featured", "true" %}
+		{% assign featured = featured_projects | concat: featured_blogposts | sort: "featured_rank" %}
+		{% include projects-list.html elements = featured %}
+</div>

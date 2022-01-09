@@ -1,0 +1,66 @@
+.home-intro {
+  margin: 40px auto 0 auto;
+  text-align: center;
+}
+
+.home-project-link {
+  display: block;
+  color: $text-color !important;
+  text-decoration: none !important;
+  display: flex;
+  flex-direction: row;
+}
+
+.home-project-link:hover {
+  .home-project-title {
+    color: $accent-color;
+  }
+  .home-project-image {
+      border: 1px solid $accent-color-extra-light;
+  }
+}
+
+.home-project-element {
+  margin: 50px auto;
+}
+
+.home-project-image {
+  display: block;
+  min-width: 256px;
+  height: 160px;
+  object-fit: cover;
+  border: 1px solid $grey-extra-light;
+  transition: all .25s ease-in-out;
+  -webkit-transition: all .25s ease-in-out;
+  -moz-transition: all .25s ease-in-out;
+  -o-transition: all .25s ease-in-out;
+}
+
+.home-project-element:hover {
+  .home-project-image {
+    transform: scale(0.97);
+  }
+}
+
+.home-project-infos {
+  padding: 4px 0;
+  margin-left: 30px;
+}
+
+.home-project-title {
+  transition: all .25s ease-in-out;
+	-webkit-transition: all .25s ease-in-out;
+	-moz-transition: all .25s ease-in-out;
+	-o-transition: all .25s ease-in-out;
+  font-weight: $font-weight-bold;
+}
+
+.home-project-excerpt {
+  transition: all .25s ease-in-out;
+  -webkit-transition: all .25s ease-in-out;
+  -moz-transition: all .25s ease-in-out;
+  -o-transition: all .25s ease-in-out;
+  padding-top: 8px;
+  font-size: 0.85em;
+  line-height: 1.7em;
+}
