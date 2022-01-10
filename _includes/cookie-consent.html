@@ -1,9 +1,9 @@
 <div id="cookie-notice-container">
   <div class="cookie-notice">
-    <div class="cookie-message">We use third party cookies to let Google Analytics collect audience metrics about this website. <a href="/privacy">Privacy policy</a>.</div>
+    <div class="cookie-message">We use third party cookies to create audience insights with Google Analytics. <a href="/privacy">Privacy policy</a>.</div>
     <div class="cookie-buttons-container">
       <div id="cookie-notice-accept" class="cookie-button">Accept</div>
-      <div id="cookie-notice-refuse" href="/privacy" class="cookie-button">Refuse</div>
+      <div id="cookie-notice-decline" href="/privacy" class="cookie-button">Decline</div>
     </div>
   </div>
 </div>
@@ -52,7 +52,7 @@
         location.reload();
     });
 
-    document.getElementById('cookie-notice-refuse').addEventListener("click",function() {
+    document.getElementById('cookie-notice-decline').addEventListener("click",function() {
         createCookie('cookie-notice-dismissed','false',31);
         document.getElementById('cookie-notice-container').style.display = 'none';
     });
