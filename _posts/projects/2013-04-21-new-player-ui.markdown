@@ -8,7 +8,7 @@ keywords: ""
 tags: []
 title:  "[Testing Page] Dailymotion Player New Design"
 tagline: ""
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 cover_image: 2013-04-21-new-player-design.jpg
 project_url:
