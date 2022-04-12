@@ -13,7 +13,7 @@ excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo
 cover_image: 2013-04-21-new-player-design.jpg
 project_url:
 videoID: x84sh87
-playerParams: GK_PV5_PHOTON=1
+gkParams: GK_PV5_PHOTON=1
 featured: false
 ---
 
