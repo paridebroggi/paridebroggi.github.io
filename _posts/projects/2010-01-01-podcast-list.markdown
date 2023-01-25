@@ -28,3 +28,10 @@ Decoder with Nilay Patel
 <div class="video-wrapper">
   <script src="https://geo.dailymotion.com/player/xbqd7.js" data-video="kQZPVJyrCLKuYOyJts1"></script>
 </div>
+
+
+Where It Happens
+
+<div class="video-wrapper">
+  <script src="https://geo.dailymotion.com/xbqd7.js" data-video="k5GZTyg4sOJnZsyJtPZ"></script>
+</div>
