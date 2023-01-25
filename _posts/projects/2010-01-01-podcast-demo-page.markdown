@@ -8,7 +8,7 @@ keywords: "podcasts, dailymotion"
 tags: [podcasts]
 title:  "Podcasts list"
 tagline: "A curated list of quality podcasts"
-excerpt: "Here you can find a curated list of some of high quality pocasts."
+excerpt: "Here you can find a curated list of some quality pocasts."
 
 cover_image: 2010-01-01-podcast-demo-page.jpg
 project_url: 
