@@ -10,7 +10,7 @@ title:  "Podcasts list"
 tagline: "A curated list of quality podcasts"
 excerpt: "Here you can find a curated list of quality pocasts."
 
-cover_image: 2010-01-01-podcast-demo-page.jpg
+cover_image: 2010-01-01-podcast-list.jpg
 project_url: 
 featured: false
 featured_rank: 10
