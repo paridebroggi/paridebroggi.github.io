@@ -33,5 +33,5 @@ Decoder with Nilay Patel
 Where It Happens
 
 <div class="video-wrapper">
-  <script src="https://geo.dailymotion.com/xbqd7.js" data-video="k5GZTyg4sOJnZsyJtPZ"></script>
+  <script src="https://geo.dailymotion.com/player/xbqd7.js" data-video="k5GZTyg4sOJnZsyJtPZ"></script>
 </div>
