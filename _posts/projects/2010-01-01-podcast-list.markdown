@@ -16,15 +16,15 @@ featured: false
 featured_rank: 10
 ---
 
-<h2>Globo by Il Post</h2>
+Globo by Il Post
 
 <div class="video-wrapper-special" style="width:680px; display:inherit !important;">
   <script src="https://geo.dailymotion.com/player/x2xo.js" data-video="kA8AiAmNd3Vc00yJrM8"></script>
 </div>
 
 
-<h2>Test Podcast 2</h2>
+Decoder with Nilay Patel
 
 <div class="video-wrapper-special" style="width:680px; display:inherit !important;">
-  <script src="https://geo.dailymotion.com/player/x2xo.js" data-video="k5wRH7vEkA8AiAmNd3Vc00yJrM8"></script>
+  <script src="https://geo.dailymotion.com/player/x2xo.js" data-video="kQZPVJyrCLKuYOyJts1"></script>
 </div>
