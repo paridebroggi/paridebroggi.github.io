@@ -8,7 +8,7 @@ keywords: "podcasts, dailymotion"
 tags: [podcasts]
 title:  "Podcasts list"
 tagline: "A curated list of quality podcasts"
-excerpt: "Here you can find a curated list of some quality pocasts."
+excerpt: "Here you can find a curated list of quality pocasts."
 
 cover_image: 2010-01-01-podcast-demo-page.jpg
 project_url: 
@@ -18,13 +18,13 @@ featured_rank: 10
 
 <h2>Globo by Il Post</h2>
 
-<div class="video-wrapper-special" style="width:330px; display:inherit !important;">
+<div class="video-wrapper-special" style="width:680px; display:inherit !important;">
   <script src="https://geo.dailymotion.com/player/x2xo.js" data-video="kA8AiAmNd3Vc00yJrM8"></script>
 </div>
 
 
 <h2>Test Podcast 2</h2>
 
-<div class="video-wrapper-special" style="width:330px; display:inherit !important;">
+<div class="video-wrapper-special" style="width:680px; display:inherit !important;">
   <script src="https://geo.dailymotion.com/player/x2xo.js" data-video="k5wRH7vEkA8AiAmNd3Vc00yJrM8"></script>
 </div>
