@@ -23,13 +23,6 @@ Globo by Il Post
 </div>
 
 
-Decoder with Nilay Patel
-
-<div class="video-wrapper">
-  <script src="https://geo.dailymotion.com/player/xbqd7.js" data-video="kQZPVJyrCLKuYOyJts1"></script>
-</div>
-
-
 Where It Happens
 
 <div class="video-wrapper">
