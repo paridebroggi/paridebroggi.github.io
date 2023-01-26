@@ -35,6 +35,13 @@ Kiffe ta race
   <script src="https://geo.dailymotion.com/player/xbqd7.js" data-video="ktlfADSxRJXyCVyJDwK"></script>
 </div>
 
+Les couilles sur la table
+
+<div class="video-wrapper">
+  <script src="https://geo.dailymotion.com/player.js" data-video="k4yJhoJYPX7J4DyJDHD"></script>
+</div>
+
+
 NEON ACTIVATED TO CHECK METADATA FORWARDING TO IPHONE MEDIA CENTER
 
 <div class="video-wrapper">
