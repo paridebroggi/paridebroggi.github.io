@@ -38,7 +38,7 @@ Kiffe ta race
 Les couilles sur la table
 
 <div class="video-wrapper">
-  <script src="https://geo.dailymotion.com/player.js" data-video="k4yJhoJYPX7J4DyJDHD"></script>
+  <script src="https://geo.dailymotion.com/player/xbqd7.js" data-video="k4yJhoJYPX7J4DyJDHD"></script>
 </div>
 
 
