@@ -38,5 +38,5 @@ Kiffe ta race
 NEON ACTIVATED TO CHECK METADATA FORWARDING TO IPHONE MEDIA CENTER
 
 <div class="video-wrapper">
-  <script src="https://geo.dailymotion.com/player/xbqd7.js?GK_PV5_PHOTON=0" data-video="ktlfADSxRJXyCVyJDwK"></script>
+  <script src="https://geo.dailymotion.com/player/xbqd7.js" data-params="GK_PV5_PHOTON=0" data-video="ktlfADSxRJXyCVyJDwK"></script>
 </div>
