@@ -25,7 +25,7 @@ Globo by Il Post
 After foot
 
 <div class="video-wrapper">
-  <script src="https://geo.dailymotion.com/player/xbqd7.js" data-video="k7EJc9bLb71EStyKE6B"></script>
+  <script src="https://geo.dailymotion.com/player/xbqd7.js" data-video="k4NaEfH4dRgZ4OyKGxf"></script>
 </div>
 
 Kiffe ta race
