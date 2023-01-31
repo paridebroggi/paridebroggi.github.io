@@ -22,7 +22,6 @@ Globo by Il Post
   <script src="https://geo.dailymotion.com/player/xbqd7.js" data-video="kA8AiAmNd3Vc00yJrM8"></script>
 </div>
 
-
 After foot
 
 <div class="video-wrapper">
@@ -32,18 +31,18 @@ After foot
 Kiffe ta race
 
 <div class="video-wrapper">
-  <script src="https://geo.dailymotion.com/player/xbqd7.js" data-video="ktlfADSxRJXyCVyJDwK"></script>
+  <script src="https://geo.dailymotion.com/player/xbqd7.js" data-video="k5sFzZu6Kz4L0AyKFhM"></script>
 </div>
 
 Les couilles sur la table
 
 <div class="video-wrapper">
-  <script src="https://geo.dailymotion.com/player/xbqd7.js" data-video="k4yJhoJYPX7J4DyJDHD"></script>
+  <script src="https://geo.dailymotion.com/player/xbqd7.js" data-video="k3AvEn6emMiHUZyKFjr"></script>
 </div>
 
 
 NEON ACTIVATED TO CHECK METADATA FORWARDING TO IPHONE MEDIA CENTER
 
 <div class="video-wrapper">
-  <script src="https://geo.dailymotion.com/player/xbqd7.js" data-params="GK_PV5_PHOTON=0" data-video="ktlfADSxRJXyCVyJDwK"></script>
+  <script src="https://geo.dailymotion.com/player/xbqd7.js" data-params="GK_PV5_PHOTON=0" data-video="k3AvEn6emMiHUZyKFjr"></script>
 </div>
