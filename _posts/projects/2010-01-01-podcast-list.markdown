@@ -16,16 +16,10 @@ featured: false
 featured_rank: 10
 ---
 
-Globo by Il Post
+Waveform
 
 <div class="video-wrapper">
-  <script src="https://geo.dailymotion.com/player/xbqd7.js" data-video="kA8AiAmNd3Vc00yJrM8"></script>
-</div>
-
-After foot
-
-<div class="video-wrapper">
-  <script src="https://geo.dailymotion.com/player/xbqd7.js" data-video="k4NaEfH4dRgZ4OyKGxf"></script>
+  <script src="https://geo.dailymotion.com/player/xbqd7.js" data-video="k6gy80b40ZojqAyN6qn"></script>
 </div>
 
 Kiffe ta race
