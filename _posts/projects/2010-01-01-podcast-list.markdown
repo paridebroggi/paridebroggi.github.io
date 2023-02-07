@@ -16,6 +16,12 @@ featured: false
 featured_rank: 10
 ---
 
+L'Invité(e) des Matins de France Culture
+
+<div class="video-wrapper">
+  <script src="https://geo.dailymotion.com/player/xbqd7.js" data-video="k4vOiuy7pueCLQyN7ZH"></script>
+</div>
+
 Waveform
 
 <div class="video-wrapper">
