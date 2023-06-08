@@ -19,4 +19,4 @@ I love minimalism and this quote attributed to [Federico Fellini](https://en.wik
 
 He said it right: the visionary is the only true realist because he is concerned with something that doesn't exist yet, but will inexorably come.
 
-At the moment I'm at [Dailymotion](https://www.dailymotion.com) leading the b2b and monetization prodcut departement.
+At the moment I'm CPO at [Dailymotion](https://www.dailymotion.com) leading the prodcut departement.
