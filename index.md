@@ -2,4 +2,4 @@
 layout: home
 title: Home
 ---
-Here is a list of features I wish existed. My small way to give back to the product community that inspires me every day ❤️.
+Here’s a list of features I wish existed. A small way of giving back to the product community that inspires me every day ❤️.
