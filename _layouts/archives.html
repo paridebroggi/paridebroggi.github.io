@@ -3,7 +3,13 @@ layout: default
 ---
 <div class="content-text">
 	{{ content }}
-	{% for post in site.categories.blogpost || site.categories.projects %}
+	<!-- {% for post in site.categories.blogpost || site.categories.projects %} -->
+
+	{% assign posts = page.categories.blogpost %}
+	{% assign projects = page.categories.projects %}
+	{% assign items = posts | concat: projects %}
+
+	{% for post in posts %}
 
 	{% if post.category == blogpost %}
 	<article class="blog-article-element">
