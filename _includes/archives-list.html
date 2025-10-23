@@ -1,6 +1,6 @@
 {% for post in include.posts %}
 
-	{% if post.category == blogpost %}
+	{% if post.category == "blogpost" %}
 	<article class="blog-article-element">
 			<a class="blog-article-link" href="{{ post.url | absolute_url }}">
 				<div class="blog-article-date">{{ post.date | date: "%b %Y" }}</div>
