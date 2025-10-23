@@ -4,8 +4,8 @@ layout: default
 <div class="content-text">
 	{{ content }}
 
-	{% assign blogposts = page.categories.blogpost %}
-	{% assign projects = page.categories.project %}
+	{% assign blogposts = site.categories.blogpost %}
+	{% assign projects = site.categories.project %}
 	{% assign items = blogposts | concat: projects | sort: "date" %}
 	{% include archives-list.html posts = items %}
 
