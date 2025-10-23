@@ -6,7 +6,7 @@ subcategory: tech
 
 keywords: "safari, apple, priate relay"
 tags: [feature request]
-title:  "Safari custom whitelists for disabling Private Realay"
+title:  "Safari custom whitelists for disabling Private Relay"
 subtitle:
 excerpt: "Custom whitelist for disabling Private Relay on specific website."
 
