@@ -8,7 +8,7 @@ keywords: "snacknews, paride, broggi, ios, swift, app, news, stories, feed, rss,
 tags: [mobile, app]
 title:  "Snacknews"
 tagline: "The instagram for news"
-excerpt: "Visual news stories on the key facts of the day and ai-recommended articles automatically summarized for you. Here's the Instagram for news."
+excerpt: "The Instagarm for news: visual stories on the key facts of the day and ai-recommended articles automatically summarized for you."
 
 cover_image: 2019-03-10-snacknews-wordmark.jpg
 project_url: https://itunes.apple.com/fr/app/snacknews/id1453025288?mt=8
@@ -19,7 +19,7 @@ featured_rank: 3
 [Snacknews](https://itunes.apple.com/fr/app/snacknews/id1453025288?mt=8) is an experiment in the mobile news market. The goal is to offer a trustworthy yet snackable news experience on mobile.
 
 <br>
-__Home (List vs Pagined version)__
+__Home (List vs Paginated version)__
 
 Snapchat-like stories (let's give to Snap what it deserves) and AI/NLP are the technical core of the app, while transparence and control on data are the principles that drive the UX and the recommendation algorithm behind the scenes.
 
