@@ -8,7 +8,7 @@ keywords: "OpenGL, simulator, hydrodynamic, fluid"
 tags: [jekyll, theme, web]
 title:  "Substance Jekyll theme"
 tagline: "A clean and fully responsive Jekyll theme"
-excerpt: "Substance is a clean and responsive Jekyll theme. Spartan in the code, minimalist in the design, but still delightful in the user experience."
+excerpt: "Substance is a clean Jekyll theme. Spartan in the code, minimalist in the design, but still delightful in the user experience."
 
 cover_image: 2015-06-14-substance-jekyll-theme.jpg
 project_url: https://www.paridebroggi.com
