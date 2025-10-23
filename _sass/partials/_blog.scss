@@ -10,7 +10,6 @@
 }
 
 .blog-article-link:hover {
-  transform: translate(12px, 0px);
   .blog-article-title {
     color: $accent-color;
   }
@@ -36,5 +35,5 @@
 }
 
 .blog-article-excerpt {
-
+  font-size: 0.85em;
 }
