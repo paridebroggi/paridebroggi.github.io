@@ -2,4 +2,4 @@
 layout: home
 title: Home
 ---
-Whenever I notice a missing feature in a product I use, I share it here. It’s my small way of giving back to the product community that inspires me every day ❤️
+Here is a list of features I wish existed. My small way to give back to the product community that inspires me every day ❤️.
