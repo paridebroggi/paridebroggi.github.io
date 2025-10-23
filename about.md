@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-navbar_rank: 3
+navbar_rank: 2
 ---
 I’m a product leader with 10+ years experience in creating b2c and b2b products (video platforms, mobile apps, games, SaaS services). At the moment I'm CPO at [Dailymotion](https://www.dailymotion.com).
 

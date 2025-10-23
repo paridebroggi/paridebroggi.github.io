@@ -1,10 +1,23 @@
 ---
 layout: default
 ---
-<div class="content-text">
+<!-- <div class="content-text">
 		{{ content }}
 		{% assign featured_projects = site.categories.project | where: "featured", "true" %}
 		{% assign featured_blogposts = site.categories.blogpost | where: "featured", "true" %}
 		{% assign featured = featured_projects | concat: featured_blogposts | sort: "featured_rank" %}
 		{% include projects-list.html elements = featured %}
+</div> -->
+
+<div class="content-text">
+	{{ content }}
+	{% for post in site.categories.features %}
+		<article class="blog-article-element">
+			<a class="blog-article-link" href="{{ post.url | absolute_url }}">
+				<div class="blog-article-date">{{ post.date | date: "%b %Y" }}</div>
+				<div class="blog-article-title"><h1>{{ post.title }}</h1></div>
+				<div class="blog-article-excerpt">{{ post.excerpt | truncate: 160 }}</div>
+			</a>
+		</article>
+	{% endfor %}
 </div>
