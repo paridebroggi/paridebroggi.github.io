@@ -8,7 +8,7 @@ keywords: "swift, uber, drive, chauffeur, privé, app, ios, application"
 tags: [mobile, app]
 title:  "Drive"
 tagline: "Rebuilt from scratch in Swift"
-excerpt: "Drive is a French transportation company focusing on the personal chauffeur luxury segment. I rebuilt in Swift the iOS app dedicated to the drivers."
+excerpt: "Drive is the French Uber for the luxury segment. I rebuilt in Swift the iOS app dedicated to the drivers."
 
 cover_image: 2016-02-28-drive-mockup-1.jpg
 project_url: https://itunes.apple.com/fr/app/drive-chauffeur/id1090014520?l=en&mt=8

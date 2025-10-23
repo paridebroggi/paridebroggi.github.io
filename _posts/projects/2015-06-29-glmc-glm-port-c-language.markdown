@@ -8,7 +8,7 @@ keywords: "glm, glmc, C, language, alternative, OpenGL, library, mathematics, ma
 tags: [library]
 title:  "Glmc"
 tagline: "An essential OpenGL Maths library in C"
-excerpt: "Glmc is an essential C language port of the famous GLM OpenGL Mathematics Library. It comes useful while developing small OpenGL projects for didactic purposes."
+excerpt: "An essential C language port of the famous GLM OpenGL Mathematics Library. It comes useful for didactic purposes."
 
 cover_image: 2015-06-29-teapot.jpg
 project_url: https://github.com/pbrog/glmc
