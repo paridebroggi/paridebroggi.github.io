@@ -12,7 +12,7 @@
 }
 
 .avatar:hover {
-	// border: 1px solid $accent-color-light;
+	border: 1px solid $accent-color-light;
 }
 
 nav {
@@ -20,6 +20,7 @@ nav {
   max-width: $content;
   text-align: center;
   margin: 0px auto;
+  font-weight: 400;
 }
 
 nav a {
