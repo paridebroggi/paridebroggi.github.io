@@ -7,7 +7,7 @@ layout: default
 
 	{% assign posts = page.categories.blogpost %}
 	{% assign projects = page.categories.projects %}
-	{% assign items = posts | concat: projects %}
+	{% assign items = posts | concat: projects | sort: "date" %}
 
 	{% for post in posts %}
 
