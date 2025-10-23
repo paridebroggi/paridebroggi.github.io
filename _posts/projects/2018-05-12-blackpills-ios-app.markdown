@@ -8,7 +8,7 @@ keywords: "blackpills, ios, swift, app, series, streaming"
 tags: [mobile, app]
 title:  "Blackpills"
 tagline: "Mobile-first short premium series for everyone"
-excerpt: "The new app for watching mobile-first premium series for free. Blackpills sets a new way to experience video content on mobile screens."
+excerpt: "Blackpills is the new app for watching mobile-first premium series for free."
 
 cover_image: 2018-05-12-blackpills-mockup-1.jpg
 project_url: https://itunes.apple.com/us/app/blackpills/id1178975492?mt=8
