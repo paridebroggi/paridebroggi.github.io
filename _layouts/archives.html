@@ -7,31 +7,6 @@ layout: default
 	{% assign posts = page.categories.blogpost %}
 	{% assign projects = page.categories.project %}
 	{% assign items = posts | concat: projects | sort: "date" %}
+	{% include archives-list.html posts = items %}
 
-	{% for post in items %}
-
-	{% if post.category == blogpost %}
-	<article class="blog-article-element">r
-		<a class="blog-article-link" href="{{ post.url | absolute_url }}">
-			<div class="blog-article-date">{{ post.date | date: "%b %Y" }}</div>
-			<div class="blog-article-title"><h1>{{ post.title }}</h1></div>
-			<div class="blog-article-excerpt">{{ post.excerpt | truncate: 160 }}</div>
-		</a>
-	</article>
-
-	{% else %}
-
-	<article class="home-project-element">
-		<a class="home-project-link" href="{{ post.url | absolute_url }}">
-			<img class="home-project-image" src="{{ site.imagesurl | append: post.cover_image | absolute_url }}" alt="{{ post.title }}" />
-			<div class="home-project-infos">
-				<div class="home-project-title"><h1>{{ post.title }}</h1></div>
-				<div class="home-project-excerpt">{{ post.excerpt | truncate: 160 }}</div>
-			</div>
-		</a>
-	</article>
-
-	{% endif %}
-
-	{% endfor %}
 </div>
