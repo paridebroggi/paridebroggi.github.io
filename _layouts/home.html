@@ -9,7 +9,7 @@ layout: default
 			<a class="blog-article-link" href="{{ post.url | absolute_url }}">
 				<div class="blog-article-date">{{ post.date | date: "%b %Y" }}</div>
 				<div class="blog-article-title"><h1>{{ post.title }}</h1></div>
-				<div class="blog-article-excerpt">{{ post.excerpt | truncate: 160 }}</div>
+				<div class="blog-article-excerpt">{{ post.content | truncate: 160 }}</div>
 			</a>
 		</article>
 	{% endfor %}
