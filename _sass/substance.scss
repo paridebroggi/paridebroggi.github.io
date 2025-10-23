@@ -26,13 +26,13 @@ $line-height-devices: 30px;
 $background-color: #fff;
 $text-color: #444;
 
-$accent-color: #59AEF8;
+$accent-color: #ff459a; //#59AEF8;
 $accent-color-light: lighten($accent-color, 10%);
 $accent-color-extra-light: lighten($accent-color, 18%);
 $accent-color-dark: darken($accent-color, 15%);
 
 $grey: #cdcdcd;
-$grey-dark: darken($grey, 10%);
+$grey-dark: darken($grey, 15%);
 $grey-light: lighten($grey, 5%);
 $grey-extra-light: lighten($grey, 15%);
 $grey-super-light: lighten($grey, 16%);

@@ -8,7 +8,7 @@ keywords: "briefeed, news, reader, rss, feed, ios, app"
 tags: [mobile, app]
 title:  "Briefeed"
 tagline: "The essential news reader app. Grab it for free!"
-excerpt: "The essential news reader app. Handy, minimal, fast: the sleekest way to read the news on the go, finding in one place all the updates you need."
+excerpt: "The essential news reader app. Handy, minimal, fast: the sleekest way to read the news on the go."
 
 cover_image: 2018-03-13-briefeed-mockup-1.jpg
 project_url: https://itunes.apple.com/us/app/briefeed/id1314299987?mt=8
