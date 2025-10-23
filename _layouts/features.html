@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="content-text">
 	{{ content }}
-	{% for post in site.categories.blogpost %}
+	{% for post in site.categories.features %}
 		<article class="blog-article-element">
 			<a class="blog-article-link" href="{{ post.url | absolute_url }}">
 				<div class="blog-article-date">{{ post.date | date: "%b %Y" }}</div>
