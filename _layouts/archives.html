@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="content-text">
+
 	{{ content }}
 
 	{% assign blogposts = site.categories.blogpost %}
@@ -9,4 +9,3 @@ layout: default
 	{% assign posts = blogposts | concat: projects | sort: "date" | reverse %}
 	{% include archives-list.html items = posts %}
 
-</div>
