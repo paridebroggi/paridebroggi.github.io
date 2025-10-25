@@ -4,11 +4,9 @@ layout: default
 
 	{{ content }}
 	{% for post in site.categories.features %}
-		<article class="article-element">
-			<a class="article-link" href="{{ post.url | absolute_url }}">
+		<article class="feature-element">
 				<div class="article-date">{{ post.date | date: "%b %Y" }}</div>
 				<div class="article-title"><h1>{{ post.title }}</h1></div>
-				<div class="article-excerpt">{{ post.excerpt | truncate: 160 }}</div>
-			</a>
+				<div class="article-excerpt">{{ post.content }}</div>
 		</article>
 	{% endfor %}

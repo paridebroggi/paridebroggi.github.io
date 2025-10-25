@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: features
 title: Features
 navbar_rank: 1
 ---
