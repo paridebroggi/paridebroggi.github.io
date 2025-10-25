@@ -1,6 +1,6 @@
 {% for item in include.items %}
 
-	{% if item.category == "blogpost" %}
+	{% if item.category == "articles" %}
 	<article class="article-element">
 			<a class="article-link" href="{{ item.url | absolute_url }}">
 				<div class="article-date">{{ item.date | date: "%b %Y" }}</div>
