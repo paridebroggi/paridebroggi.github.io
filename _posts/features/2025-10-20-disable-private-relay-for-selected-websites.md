@@ -3,7 +3,7 @@ date: 2025-10-20 09:31:45 +0100
 layout: feature
 category: features
 
-keywords: "safari, apple, priate relay"
+keywords: "safari, apple, private relay"
 tags: [feature request]
 title:  "Safari custom whitelists to disable Private Relay"
 ---
