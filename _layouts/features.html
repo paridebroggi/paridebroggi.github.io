@@ -7,6 +7,14 @@ layout: default
 <article class="feature-element">
 	<div class="article-title"><h1>{{ post.title }}</h1></div>
 	<div class="article-excerpt">{{ post.content }}</div>
+
+
+	<div class="feature-tags">
+		{% for tag in post.keywords %}
+ 		 <div class="tag">#{{tag}}</div>
+		{%endfoi%} 	
+	</div>
+
 	<div class="article-date">{{ post.date | date: "%b %Y" }}</div>
 </article>
 {% endfor %}
