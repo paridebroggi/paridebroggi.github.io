@@ -1,7 +1,7 @@
 ---
 date: 2012-06-05 21:18:01 +0100
-layout: blogpost
-category: blogpost
+layout: article
+category: articles
 subcategory: dev
 
 tags: "keynes, monnaie, philosophie, théorie générale, emploi, intérêt"

@@ -1,7 +1,7 @@
 ---
 date: 2018-03-13 12:33:52 +0100
 layout: project
-category: project
+category: projects
 subcategory: app
 
 keywords: "briefeed, news, reader, rss, feed, ios, app"

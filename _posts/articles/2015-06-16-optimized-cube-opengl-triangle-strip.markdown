@@ -1,7 +1,7 @@
 ---
 date: 2015-06-16 21:19:43 +0100
-layout: blogpost
-category: blogpost
+layout: article
+category: articles
 subcategory: dev
 
 tags: "opengl, cube, draw, gl_triangle_strip, triangle, strip, cube, optimized, efficient"

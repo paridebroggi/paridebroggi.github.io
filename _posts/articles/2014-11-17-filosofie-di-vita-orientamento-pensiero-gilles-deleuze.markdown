@@ -1,7 +1,7 @@
 ---
 date: 2014-11-17 23:08:11 +0100
-layout: blogpost
-category: blogpost
+layout: article
+category: articles
 subcategory: dev
 
 tags: "geofilosofia, deleuze, guattari, rappresentazione, storicismo"

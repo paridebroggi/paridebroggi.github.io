@@ -1,7 +1,7 @@
 ---
 date: 2011-11-22 14:30:31 +0100
-layout: blogpost
-category: blogpost
+layout: article
+category: articles
 subcategory: dev
 
 tags: "geofilosofia, deleuze, guattari, rappresentazione, storicismo becero"

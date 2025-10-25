@@ -1,7 +1,7 @@
 ---
 date: 2016-08-04 08:27:32 +0100
 layout: project
-category: project
+category: projects
 subcategory: tool
 
 keywords: "mac, osx, macOS, zsh, terminal, git, minimal, shell, prompt, ocean, base16, iterm2"

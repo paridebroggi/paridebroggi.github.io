@@ -1,7 +1,7 @@
 ---
 date: 2018-01-09 23:18:22 +0100
 layout: project
-category: project
+category: projects
 subcategory: web
 
 keywords: "OpenGL, simulator, hydrodynamic, fluid"

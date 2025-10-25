@@ -1,7 +1,7 @@
 ---
 date: 2015-06-14 11:22:19 +0100
 layout: project
-category: project
+category: projects
 subcategory: tool
 
 keywords: "OpenGL, simulator, hydrodynamic,fluid"

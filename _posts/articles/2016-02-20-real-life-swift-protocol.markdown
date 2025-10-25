@@ -1,7 +1,7 @@
 ---
 date: 2016-02-20 23:17:12 +0100
-layout: blogpost
-category: blogpost
+layout: article
+category: articles
 subcategory: dev
 
 keywords: "swift, protocols, protocol, protocol oriented, protocol extension, default, implementation"

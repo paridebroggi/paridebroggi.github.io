@@ -1,7 +1,7 @@
 ---
 date: 2014-08-15 21:48:37 +0100
 layout: project
-category: project
+category: projects
 subcategory: web
 
 keywords: "immanence, wordpress, theme, minimal, free"

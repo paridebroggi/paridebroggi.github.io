@@ -1,7 +1,7 @@
 ---
 date: 2018-02-21 08:17:12 +0100
 layout: project
-category: project
+category: projects
 subcategory: web
 
 keywords: "essential, food, theessentialfood, healthy, blog, food"

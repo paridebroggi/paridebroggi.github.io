@@ -1,7 +1,7 @@
 ---
 date: 2015-08-18 08:05:12 +0100
-layout: blogpost
-category: blogpost
+layout: article
+category: articles
 subcategory: dev
 
 keywords: "swift, uicollectionview, datasource, reusable, synchronized"

@@ -1,7 +1,7 @@
 ---
 date: 2014-10-11 21:32:22 +0100
 layout: project
-category: project
+category: projects
 subcategory: web
 
 keywords: "JavaScript, angularJS, js, repictur, dashboard"

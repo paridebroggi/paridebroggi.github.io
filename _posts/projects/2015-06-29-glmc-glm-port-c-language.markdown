@@ -1,7 +1,7 @@
 ---
 date: 2015-06-29 00:49:23 +0100
 layout: project
-category: project
+category: projects
 subcategory: library
 
 keywords: "glm, glmc, C, language, alternative, OpenGL, library, mathematics, matrix, matrices, vectors, lookat, perspective, model, view"

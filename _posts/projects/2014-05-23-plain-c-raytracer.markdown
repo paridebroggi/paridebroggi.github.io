@@ -1,7 +1,7 @@
 ---
 date: 2014-05-23 16:48:45 +0100
 layout: project
-category: project
+category: projects
 subcategory: tool
 
 keywords: "c, raytracer, computer graphics, matrices, ray, casting"

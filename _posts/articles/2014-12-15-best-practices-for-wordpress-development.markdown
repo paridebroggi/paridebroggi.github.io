@@ -1,7 +1,7 @@
 ---
 date: 2014-12-15 23:02:57 +100
-layout: blogpost
-category: blogpost
+layout: article
+category: articles
 subcategory: dev
 
 tags: "wordpress, theme, developing, guide, beginners"

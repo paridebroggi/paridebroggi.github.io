@@ -1,7 +1,7 @@
 ---
 date: 2015-12-17 23:22:52 +0100
 layout: project
-category: project
+category: projects
 subcategory: app
 
 keywords: "42, ecole 42, xavier niel, swift, swift 2, intranet, paris"

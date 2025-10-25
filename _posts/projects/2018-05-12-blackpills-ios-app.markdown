@@ -1,7 +1,7 @@
 ---
 date: 2018-05-12 12:33:52 +0100
 layout: project
-category: project
+category: projects
 subcategory: app
 
 keywords: "blackpills, ios, swift, app, series, streaming"

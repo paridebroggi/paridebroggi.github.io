@@ -1,7 +1,7 @@
 ---
 date: 2017-07-28 12:27:32 +0100
-layout: blogpost
-category: blogpost
+layout: article
+category: articles
 subcategory: dev
 
 keywords: "swift, collectionview, UICollectionView, collection, view, parallax, sticky, header, stretchy"

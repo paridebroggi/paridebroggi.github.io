@@ -1,7 +1,7 @@
 ---
 date: 2019-05-19 19:33:52 +0100
 layout: project
-category: project
+category: projects
 subcategory: app
 
 keywords: "blow, paride, broggi, ios, app, news, video, instant, maker, editor"

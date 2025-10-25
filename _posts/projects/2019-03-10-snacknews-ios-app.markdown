@@ -1,7 +1,7 @@
 ---
 date: 2019-03-10 12:33:52 +0100
 layout: project
-category: project
+category: projects
 subcategory: app
 
 keywords: "snacknews, paride, broggi, ios, swift, app, news, stories, feed, rss, tech"

@@ -4,8 +4,8 @@ layout: default
 
 	{{ content }}
 
-	{% assign blogposts = site.categories.blogpost %}
-	{% assign projects = site.categories.project %}
+	{% assign articles = site.categories.articles %}
+	{% assign projects = site.categories.projects %}
 	{% assign posts = blogposts | concat: projects | sort: "date" | reverse %}
 	{% include archives-list.html items = posts %}
 

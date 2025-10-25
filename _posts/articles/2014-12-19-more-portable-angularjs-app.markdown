@@ -1,7 +1,7 @@
 ---
 date: 2014-12-19 22:56:03 +0100
-layout: blogpost
-category: blogpost
+layout: article
+category: articles
 subcategory: dev
 
 tags: "angularjs, jqlite, portability, app"

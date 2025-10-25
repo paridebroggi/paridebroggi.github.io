@@ -1,7 +1,7 @@
 ---
 date: 2012-05-02 23:11:48 +0100
-layout: blogpost
-category: blogpost
+layout: article
+category: articles
 subcategory: dev
 
 tags: "deleuze, merleau-ponty, foucault, platonismo, differenza, ripetizione"

@@ -1,7 +1,7 @@
 ---
 date: 2014-12-20 01:12:14 +0100
 layout: project
-category: project
+category: projects
 subcategory: web
 
 keywords: "JavaScript, angularJS, js, smartnsoft"

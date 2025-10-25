@@ -1,7 +1,7 @@
 ---
 date: 2015-05-06 22:39:13 +0100
-layout: blogpost
-category: blogpost
+layout: article
+category: articles
 subcategory: dev
 
 tags: "mandelbrot, julias, set, fractal, newton, pruning, ship, smooth, colouring, algorithm"

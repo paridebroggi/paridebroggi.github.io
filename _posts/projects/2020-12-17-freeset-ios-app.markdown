@@ -1,7 +1,7 @@
 ---
 date: 2019-05-19 19:33:52 +0100
 layout: project
-category: project
+category: projects
 subcategory: app
 
 keywords: "freeset, paride, broggi, ios, app, lightroom, preset, filters, mobile"

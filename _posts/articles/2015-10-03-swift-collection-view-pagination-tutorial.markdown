@@ -1,7 +1,7 @@
 ---
 date: 2015-10-03 23:17:32 +0100
-layout: blogpost
-category: blogpost
+layout: article
+category: articles
 subcategory: dev
 
 keywords: "collcetionview, uicollectionview, collection, view, scroll, pagination, paginated, center, cover, flow, uiscrollview, centered"

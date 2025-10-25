@@ -1,7 +1,7 @@
 ---
 date: 2017-10-10 23:17:12 +0100
-layout: blogpost
-category: blogpost
+layout: article
+category: articles
 subcategory: dev
 
 keywords: "swift, collectionview, UICollectionView, collection, view, pinterest, layout, app"

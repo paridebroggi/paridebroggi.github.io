@@ -1,7 +1,7 @@
 ---
 date: 2016-02-28 00:35:52 +0100
 layout: project
-category: project
+category: projects
 subcategory: app
 
 keywords: "swift, uber, drive, chauffeur, privé, app, ios, application"
