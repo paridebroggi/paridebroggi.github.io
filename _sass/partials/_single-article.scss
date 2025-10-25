@@ -1,4 +1,4 @@
-.single-blogpost {
+.single-article {
   img {
     margin: 1.6em auto;
     display: block;
@@ -12,12 +12,12 @@
   display: flex;
 }
 
-.single-blogpost-date {
+.single-article-date {
   font-size: 0.85em !important;
   color: $grey-dark !important;
 }
 
-.single-blogpost-title {
+.single-article-title {
   font-weight: $font-weight-bold;
   margin: auto auto auto 0;
   text-align: left;
