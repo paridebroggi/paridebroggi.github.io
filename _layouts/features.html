@@ -10,11 +10,11 @@ layout: default
 
 
 	<div class="feature-tags">
+		<div class="article-date">{{ feature.date | date: "%b %Y" }}</div>
 		{% for tag in feature.keywords %}
- 		 <div class="tag">{{tag}}</div>
-		{%endfoi%} 	
+ 		 <div class="tag">{{ tag }}</div>
+		{% endfor %} 	
 	</div>
 
-	<div class="article-date">{{ feature.date | date: "%b %Y" }}</div>
 </article>
 {% endfor %}
