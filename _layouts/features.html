@@ -2,11 +2,11 @@
 layout: default
 ---
 
-	{{ content }}
-	{% for post in site.categories.features %}
-		<article class="feature-element">
-				<div class="article-date">{{ post.date | date: "%b %Y" }}</div>
-				<div class="article-title"><h1>{{ post.title }}</h1></div>
-				<div class="article-excerpt">{{ post.content }}</div>
-		</article>
-	{% endfor %}
+{{ content }}
+{% for post in site.categories.features %}
+<article class="feature-element">
+	<div class="article-title"><h1>{{ post.title }}</h1></div>
+	<div class="article-excerpt">{{ post.content }}</div>
+	<div class="article-date">{{ post.date | date: "%b %Y" }}</div>
+</article>
+{% endfor %}
