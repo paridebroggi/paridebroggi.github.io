@@ -1,26 +1,26 @@
 @media only screen and (max-width: $tablet) {
 
-  .home-project-element:hover {
-    .home-project-image {
+  .project-element:hover {
+    .project-image {
       transform: none;
     }
   }
 
-  .home-project-link {
+  .project-link {
     flex-direction: column;
     flex-wrap: nowrap;
   }
 
-  .home-project-link:hover {
-    .home-project-title {
+  .project-link:hover {
+    .project-title {
       color: $text-color;
     }
-    .home-project-image {
+    .project-image {
       border: none;
     }
   }
 
-  .home-project-image {
+  .project-image {
     width: 100%;
     height: 300px;
     margin: 0 auto 0.5em auto;
@@ -31,7 +31,7 @@
     -o-transition: none;
   }
 
-  .home-project-infos {
+  .project-infos {
     padding: 0px 1px;
     margin-left: 0px;
   }
@@ -44,9 +44,9 @@
     min-height: 500px;
   }
 
-  .blog-article-link:hover {
+  .article-link:hover {
     transform: none;
-    .blog-article-title {
+    .article-title {
       color: $text-color;
     }
   }

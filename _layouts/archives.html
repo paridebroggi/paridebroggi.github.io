@@ -6,7 +6,7 @@ layout: default
 
 	{% assign blogposts = site.categories.blogpost %}
 	{% assign projects = site.categories.project %}
-	{% assign items = blogposts | concat: projects | sort: "date" | reverse %}
-	{% include archives-list.html posts = items %}
+	{% assign posts = blogposts | concat: projects | sort: "date" | reverse %}
+	{% include archives-list.html items = posts %}
 
 </div>

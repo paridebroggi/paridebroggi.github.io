@@ -1,23 +1,23 @@
-{% for post in include.posts %}
+{% for items in include.items %}
 
-	{% if post.category == "blogpost" %}
-	<article class="blog-article-element">
-			<a class="blog-article-link" href="{{ post.url | absolute_url }}">
-				<div class="blog-article-date">{{ post.date | date: "%b %Y" }}</div>
-				<div class="blog-article-title"><h1>{{ post.title }}</h1></div>
-				<div class="blog-article-excerpt">{{ post.excerpt | truncate: 160 }}</div>
+	{% if item.category == "blogpost" %}
+	<article class="article-element">
+			<a class="article-link" href="{{ item.url | absolute_url }}">
+				<div class="article-date">{{ item.date | date: "%b %Y" }}</div>
+				<div class="article-title"><h1>{{ item.title }}</h1></div>
+				<div class="article-excerpt">{{ item.excerpt | truncate: 160 }}</div>
 			</a>
 	</article>
 
 	{% else %}
 
-	<article class="home-project-element">
-		<a class="home-project-link" href="{{ post.url | absolute_url }}">
-			<img class="home-project-image" src="{{ site.imagesurl | append: post.cover_image | absolute_url }}" alt="{{ post.title }}" />
-			<div class="home-project-infos">
-				<div class="blog-article-date">{{ post.date | date: "%b %Y" }}</div>
-				<div class="home-project-title"><h1>{{ post.title }}</h1></div>
-				<div class="home-project-excerpt">{{ post.excerpt | truncate: 160 }}</div>
+	<article class="project-element">
+		<a class="project-link" href="{{ item.url | absolute_url }}">
+			<img class="project-image" src="{{ site.imagesurl | append: item.cover_image | absolute_url }}" alt="{{ item.title }}" />
+			<div class="project-infos">
+				<div class="article-date">{{ item.date | date: "%b %Y" }}</div>
+				<div class="project-title"><h1>{{ item.title }}</h1></div>
+				<div class="project-excerpt">{{ item.excerpt | truncate: 160 }}</div>
 			</div>
 		</a>
 	</article>
