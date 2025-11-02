@@ -7,4 +7,4 @@ keywords: "cooking, scale, Zwilling"
 tags: [cooking, scale, balance, Zwilling, tare]
 title:  "Zwilling scale: automatic tare with pre-saved dish weights"
 ---
-As a Zwilling cooking scale user, I can pre-save the weights of my dishes and bowls so that the scale automatically applies the correct tare without needing to weigh the empty plate each time.
+As a Zwilling cooking scale user, I can pre-save the weights of my dishes and bowls so that the scale automatically applies the correct tare without needing to weigh the empty plate or bowl each time.
