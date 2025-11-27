@@ -140,6 +140,7 @@ async function init() {
     }
 }
 
-// Run on page load
-document.addEventListener('DOMContentLoaded', init);
+init()
+// // Run on page load
+// document.addEventListener('DOMContentLoaded', init);
 
