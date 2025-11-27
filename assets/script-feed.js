@@ -55,30 +55,44 @@ function formatRelativeTime(timestamp) {
     return `${diffInYears}y ago`;
 }
 
-// Parse body JSON to plain text
+// Parse body JSON to extract title and text
 function parseBodyJson(bodyJson) {
     if (!bodyJson || !bodyJson.content) {
-        return '';
+        return { title: '', text: '' };
     }
     
+    let title = '';
     let text = '';
+    let isFirstParagraph = true;
+    
     bodyJson.content.forEach(node => {
         if (node.type === 'paragraph' && node.content) {
             node.content.forEach(textNode => {
                 if (textNode.type === 'text') {
                     const isBold = textNode.marks?.some(mark => mark.type === 'bold');
-                    if (isBold) {
-                        text += `<strong>${textNode.text}</strong>`;
+                    
+                    if (isBold && isFirstParagraph) {
+                        // First bold text becomes the title
+                        title += textNode.text;
                     } else {
+                        // Everything else is body text
                         text += textNode.text;
                     }
                 }
             });
-            text += '\n';
+            
+            // Add spacing between paragraphs for body text
+            if (!isFirstParagraph) {
+                text += ' ';
+            }
+            isFirstParagraph = false;
         }
     });
     
-    return text.trim();
+    return {
+        title: title.trim(),
+        text: text.trim()
+    };
 }
 
 // Create feed item HTML
@@ -86,16 +100,16 @@ function createFeedItem(item) {
     const comment = item.comment;
     
     // Parse body content
-    const bodyContent = comment.body_json ? parseBodyJson(comment.body_json) : comment.body;
+    const { title, text } = parseBodyJson(comment.body_json);
     
     // Format time
     const timeAgo = formatRelativeTime(comment.date);
     
-       
     return `
         <article class="feature-element">
-            <div class="article-date">${timeAgo}</div>
-	        <div class="article-excerpt">${bodyContent}</div>
+            <div class="article-date">${timeAgo}</div>   
+            <div class="article-title">${title}</div>
+            <div class="article-excerpt">${text}</div>
         </article>
     `;
 }
@@ -131,7 +145,6 @@ function showError(message) {
 
 // Initialize app
 async function init() {
-    console.log("started");
     try {
         const data = await fetchFeed();
         renderFeed(data);
@@ -140,7 +153,7 @@ async function init() {
     }
 }
 
-// Run on page load
+// Run on page load - check if DOM is already loaded
 if (document.readyState === 'loading') {
     // DOM is still loading, so wait for the event
     document.addEventListener('DOMContentLoaded', init);
