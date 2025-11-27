@@ -131,6 +131,7 @@ function showError(message) {
 
 // Initialize app
 async function init() {
+    console.log("started");
     try {
         const data = await fetchFeed();
         renderFeed(data);
