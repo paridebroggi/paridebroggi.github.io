@@ -141,8 +141,11 @@ async function init() {
 }
 
 // Run on page load
-document.addEventListener("DOMContentLoaded", function () {
-  console.log("Page ready");
-  init()
-});
+if (document.readyState === 'loading') {
+    // DOM is still loading, so wait for the event
+    document.addEventListener('DOMContentLoaded', init);
+} else {
+    // DOM is already loaded, run init immediately
+    init();
+}
 
